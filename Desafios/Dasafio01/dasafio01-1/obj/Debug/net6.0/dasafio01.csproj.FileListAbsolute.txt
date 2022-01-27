@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\bin\Debug\net6.0\dasafio01.exe
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\bin\Debug\net6.0\dasafio01.deps.json
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\bin\Debug\net6.0\dasafio01.runtimeconfig.json
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\bin\Debug\net6.0\dasafio01.dll
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\bin\Debug\net6.0\ref\dasafio01.dll
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\bin\Debug\net6.0\dasafio01.pdb
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\dasafio01.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\dasafio01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\dasafio01.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\dasafio01.AssemblyInfo.cs
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\dasafio01.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\dasafio01.dll
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\ref\dasafio01.dll
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\dasafio01.pdb
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafios\dasafio01\obj\Debug\net6.0\dasafio01.genruntimeconfig.cache
