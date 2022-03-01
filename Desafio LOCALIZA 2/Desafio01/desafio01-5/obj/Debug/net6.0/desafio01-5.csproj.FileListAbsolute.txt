@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\bin\Debug\net6.0\desafio01-5.exe
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\bin\Debug\net6.0\desafio01-5.deps.json
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\bin\Debug\net6.0\desafio01-5.runtimeconfig.json
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\bin\Debug\net6.0\desafio01-5.dll
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\bin\Debug\net6.0\desafio01-5.pdb
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\desafio01-5.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\desafio01-5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\desafio01-5.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\desafio01-5.AssemblyInfo.cs
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\desafio01-5.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\desafio01-5.dll
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\refint\desafio01-5.dll
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\desafio01-5.pdb
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\desafio01-5.genruntimeconfig.cache
+C:\Users\felip\Documents\DIO\dotnet_dio\Desafio LOCALIZA 2\Desafio01\desafio01-5\obj\Debug\net6.0\ref\desafio01-5.dll
