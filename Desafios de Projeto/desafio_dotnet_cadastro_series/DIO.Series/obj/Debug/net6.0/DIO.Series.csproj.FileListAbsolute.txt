@@ -1,0 +1,15 @@
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\DIO.Series.AssemblyInfo.cs
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\bin\Debug\net6.0\DIO.Series.exe
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\bin\Debug\net6.0\DIO.Series.deps.json
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\bin\Debug\net6.0\DIO.Series.runtimeconfig.json
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\bin\Debug\net6.0\DIO.Series.dll
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\bin\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\bin\Debug\net6.0\DIO.Series.pdb
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\DIO.Series.dll
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\ref\DIO.Series.dll
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\DIO.Series.pdb
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\DIO_desafio_dotnet_cadastro_series\DIO.Series\obj\Debug\net6.0\DIO.Series.genruntimeconfig.cache

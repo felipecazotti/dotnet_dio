@@ -1,0 +1,14 @@
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\bin\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.exe
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\bin\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.deps.json
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\bin\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.runtimeconfig.json
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\bin\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.runtimeconfig.dev.json
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\bin\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.dll
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\bin\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.pdb
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\obj\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.AssemblyInfoInputs.cache
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\obj\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.AssemblyInfo.cs
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\obj\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.csproj.CoreCompileInputs.cache
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\obj\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.dll
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\obj\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.pdb
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\obj\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.genruntimeconfig.cache
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\obj\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.csproj.AssemblyReference.cache
+C:\Users\felip\Documents\DIO\desafio_de_projeto_dotnet\desafio_de_projeto_dotnet\obj\Debug\netcoreapp3.1\desafio_de_projeto_dotnet.GeneratedMSBuildEditorConfig.editorconfig
